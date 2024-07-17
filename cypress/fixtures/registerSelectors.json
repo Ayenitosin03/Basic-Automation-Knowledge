@@ -1,0 +1,21 @@
+{
+    "fullName": "#fullName",
+    "organization": "#organization",
+    "industry": "#industry",
+    "industryOption": ".ant-select-item-option-active > .ant-select-item-option-content",
+    "email": "#email",
+    "phone_number": "#phone_number",
+    "password": "#password",
+    "cPassword": "#cPassword",
+    "recaptcha": "#recaptcha",
+    "authBtn": ".authBtn",
+    "successNotification": ".ant-notification-notice-description",
+    "fName": "Oluwatosin Esther",
+    "organ": "TechEs",
+    "userEmail":"Esther@yopmail.com",
+    "phNum" : "8166960374",
+    "fPassword":"1@Password",
+    "confirmPassword": "1@Password",
+    "recaptchaText": ""
+  }
+  
